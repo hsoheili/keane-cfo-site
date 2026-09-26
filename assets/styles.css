@@ -559,6 +559,8 @@ main > section + section {
   color: var(--muted);
 }
 
+.form-trap { position: absolute; left: -9999px; }
+
 .form input,
 .form select,
 .form textarea {
